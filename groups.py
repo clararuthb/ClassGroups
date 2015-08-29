@@ -91,7 +91,6 @@ while confirm == "yes":
 			for each in range(groupnum):
 				print ", ".join(assngroups[each]) + "\n\n"
 			time.sleep(5)
-			print "JESUS WEPT!\n"
 		except:
 			groupsize = int(mainvar[len(mainvar)-1])
 			#print groupsize
@@ -109,4 +108,3 @@ while confirm == "yes":
 			for each in range(grpnum):
 				print ", ".join(assngroups[each]) + "\n\n"
 			time.sleep(5)
-			print "JESUS WEPT!\n"

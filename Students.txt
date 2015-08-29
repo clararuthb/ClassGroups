@@ -10,7 +10,7 @@ Picard
 Riker
 Beverly
 Troi
-Geordie
+Geordi
 Data
 Worf
 Wesley
